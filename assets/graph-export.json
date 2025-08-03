@@ -1,0 +1,501 @@
+{
+  "nodes": [
+    {
+      "id": "101",
+      "type": "custom",
+      "data": {
+        "label": "101"
+      },
+      "position": {
+        "x": 356.26824657543915,
+        "y": 275.897298745465
+      },
+      "measured": {
+        "width": 111,
+        "height": 71
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "102",
+      "type": "custom",
+      "data": {
+        "label": "102"
+      },
+      "position": {
+        "x": 294.88482432130974,
+        "y": 172.23063199928384
+      },
+      "measured": {
+        "width": 111,
+        "height": 71
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "103",
+      "type": "custom",
+      "data": {
+        "label": "103"
+      },
+      "position": {
+        "x": 229.84063767349488,
+        "y": 58.97088272012254
+      },
+      "measured": {
+        "width": 111,
+        "height": 71
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "104",
+      "type": "custom",
+      "data": {
+        "label": "104"
+      },
+      "position": {
+        "x": 270.89514615974645,
+        "y": -81.59738499075615
+      },
+      "measured": {
+        "width": 111,
+        "height": 71
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "1t1b",
+      "type": "custom",
+      "data": {
+        "label": "1-Toilet-1-B"
+      },
+      "position": {
+        "x": 109.94141287998582,
+        "y": -56.58194362167887
+      },
+      "measured": {
+        "width": 120,
+        "height": 71
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "201",
+      "type": "custom",
+      "data": {
+        "label": "201"
+      },
+      "position": {
+        "x": 504.6062920544704,
+        "y": 261.08279963443135
+      },
+      "measured": {
+        "width": 111,
+        "height": 71
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "202",
+      "type": "custom",
+      "data": {
+        "label": "202"
+      },
+      "position": {
+        "x": 504.36351874419574,
+        "y": 131.92056232603292
+      },
+      "measured": {
+        "width": 111,
+        "height": 71
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "203",
+      "type": "custom",
+      "data": {
+        "label": "203"
+      },
+      "position": {
+        "x": 505.45138500708805,
+        "y": 22.282515130340585
+      },
+      "measured": {
+        "width": 111,
+        "height": 71
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "204",
+      "type": "custom",
+      "data": {
+        "label": "204"
+      },
+      "position": {
+        "x": 627.0256719565331,
+        "y": -107.92187176031914
+      },
+      "measured": {
+        "width": 111,
+        "height": 71
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "2t1b",
+      "type": "custom",
+      "data": {
+        "label": "2-Toilet-1-B"
+      },
+      "position": {
+        "x": 414.86007911437366,
+        "y": -118.33636258565558
+      },
+      "measured": {
+        "width": 120,
+        "height": 71
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "301",
+      "type": "custom",
+      "data": {
+        "label": "301"
+      },
+      "position": {
+        "x": 656.6973794358277,
+        "y": 267.23935527845805
+      },
+      "measured": {
+        "width": 111,
+        "height": 71
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "302",
+      "type": "custom",
+      "data": {
+        "label": "302"
+      },
+      "position": {
+        "x": 718.2061978947448,
+        "y": 168.57165662495737
+      },
+      "measured": {
+        "width": 111,
+        "height": 71
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "303",
+      "type": "custom",
+      "data": {
+        "label": "303"
+      },
+      "position": {
+        "x": 784.8579149924319,
+        "y": 45.26290627433292
+      },
+      "measured": {
+        "width": 111,
+        "height": 71
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "304",
+      "type": "custom",
+      "data": {
+        "label": "304"
+      },
+      "position": {
+        "x": 938.4189087947656,
+        "y": -110.13922898296258
+      },
+      "measured": {
+        "width": 111,
+        "height": 71
+      },
+      "selected": true,
+      "dragging": false
+    },
+    {
+      "id": "3t1b",
+      "type": "custom",
+      "data": {
+        "label": "3-Toilet-1-B"
+      },
+      "position": {
+        "x": 772.0469025999838,
+        "y": -103.72444486612069
+      },
+      "measured": {
+        "width": 120,
+        "height": 71
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "105",
+      "type": "custom",
+      "data": {
+        "label": "105"
+      },
+      "position": {
+        "x": 296.71289917044834,
+        "y": -246.8349651647387
+      },
+      "measured": {
+        "width": 111,
+        "height": 71
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "205",
+      "type": "custom",
+      "data": {
+        "label": "205"
+      },
+      "position": {
+        "x": 667.4620014790204,
+        "y": -245.93373645025522
+      },
+      "measured": {
+        "width": 111,
+        "height": 71
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "305",
+      "type": "custom",
+      "data": {
+        "label": "305"
+      },
+      "position": {
+        "x": 999.189315608038,
+        "y": -236.89143242798355
+      },
+      "measured": {
+        "width": 111,
+        "height": 71
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "a",
+      "type": "custom",
+      "data": {
+        "label": "Entrance A"
+      },
+      "position": {
+        "x": 164.6186627567954,
+        "y": 300
+      },
+      "measured": {
+        "width": 112,
+        "height": 71
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "s2-12",
+      "type": "custom",
+      "data": {
+        "label": "Staircase-2"
+      },
+      "position": {
+        "x": 488.0496155808811,
+        "y": -384.5553604484741
+      },
+      "measured": {
+        "width": 113,
+        "height": 71
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "s2-23",
+      "type": "custom",
+      "data": {
+        "label": "Starcase-2"
+      },
+      "position": {
+        "x": 872.7029704885465,
+        "y": -390.6589120194372
+      },
+      "measured": {
+        "width": 111,
+        "height": 71
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "s1-12",
+      "type": "custom",
+      "data": {
+        "label": "Staircase-1"
+      },
+      "position": {
+        "x": 448.09465293082235,
+        "y": 376.2761610861741
+      },
+      "measured": {
+        "width": 113,
+        "height": 71
+      },
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "s1-23",
+      "type": "custom",
+      "data": {
+        "label": "Staircase-1"
+      },
+      "position": {
+        "x": 590.0290115103877,
+        "y": 367.6788903760214
+      },
+      "measured": {
+        "width": 113,
+        "height": 71
+      },
+      "selected": false,
+      "dragging": false
+    }
+  ],
+  "edges": [
+    {},
+    {
+      "source": "102",
+      "target": "101"
+
+    },
+    {
+      "source": "103",
+      "target": "102"
+
+    },
+    {
+      "source": "104",
+      "target": "103"
+
+    },
+    {
+      "source": "1t1b",
+      "target": "103"
+    },
+    {
+      "source": "202",
+      "target": "201"
+    },
+    {
+      "source": "203",
+      "target": "202"
+    },
+    {
+      "source": "204",
+      "target": "203"
+    },
+    {
+      "source": "2t1b",
+      "target": "203"
+    },
+    {
+      "source": "302",
+      "target": "301"
+    },
+    {
+      "source": "303",
+      "target": "302"
+    },
+    {
+      "source": "304",
+      "target": "303"
+    },
+    {
+      "source": "3t1b",
+      "target": "303"
+    },
+    {
+      "source": "105",
+      "target": "104"
+    },
+    {
+      "source": "205",
+      "target": "204"
+    },
+    {
+      "source": "305",
+      "target": "304"
+    },
+    {
+      "source": "s2-12",
+      "target": "105"
+    },
+    {
+      "source": "s2-12",
+      "target": "205"
+    },
+    {
+      "source": "s2-23",
+      "target": "205"
+    },
+    {
+      "source": "s2-23",
+      "target": "305"
+    },
+    {
+      "source": "101",
+      "target": "s1-12"
+    },
+    {
+      "source": "201",
+      "target": "s1-12"
+    },
+    {
+      "source": "101",
+      "target": "a"
+    },
+    {
+      "source": "201",
+      "target": "s1-23"
+    },
+    {
+      "source": "301",
+      "target": "s1-23"
+    },
+    {
+      "source": "101",
+      "target": "a"
+    }
+  ]
+}
